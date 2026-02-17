@@ -26,7 +26,7 @@ The antenna is designed on an FR4 substrate (ε<sub>r</sub> = 4.4, thickness = 1
 |-------------|-------------|
 | `report/` | Full B.Tech project report (PDF) |
 | `simulation/` | HFSS simulation files |
-| `fabrication/` | PCB layouts (PDF) and Gerber files  |
+| `fabrication/` | PCB layouts  |
 | `photos/` | Simulation results |
 | `results/` | Measured S-parameter data (CSV format) |
 | `README.md` | This file |
