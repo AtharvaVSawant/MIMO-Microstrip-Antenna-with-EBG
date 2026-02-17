@@ -153,7 +153,8 @@ We thank our guide Dr. Pramod P. Bhavarthe for his invaluable support, the Depar
 ## 📬 Contact
 
 For any queries, please contact:  
-atharvasawant3183@gmail.c0m 
+atharvasawant3183@gmail.com 
+
 https://www.linkedin.com/in/atharvavsawant/
 
 ---
