@@ -2,6 +2,7 @@
 Design and fabrication of a 2×1 MIMO patch antenna with low mutual coupling using Electromagnetic Bandgap (EBG) structures, operating at 2.4 GHz for 5G and next‑generation wireless networks.
 
 # MIMO Patch Antenna with Low Mutual Coupling for Next Generation Wireless Networks
+![Mimo 1](https://github.com/user-attachments/assets/1efb65ba-f5da-4004-8aa5-66ac8959e6dc)
 
 ![Antenna Prototype](photos/antenna_front.jpg)  
 *Figure: Fabricated MIMO antenna with EBG structure*
